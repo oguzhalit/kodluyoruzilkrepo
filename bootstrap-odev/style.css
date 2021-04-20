@@ -1,0 +1,10 @@
+#urunler {
+    list-style-position: inside;
+}
+
+#hakkımızda {
+    text-align: left;
+}
+#hakkımızda h5 {
+    color:orange;
+}
